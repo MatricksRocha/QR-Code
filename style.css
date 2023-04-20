@@ -13,11 +13,9 @@ body {
 #qrcode {
     width: min-content;
     background-color: white;
-
     padding: 20px;
     margin: auto;
     border-radius: 15px;
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,7 +34,6 @@ h2, p {
 h2 {
     color: hsl(218, 44%, 22%);
     margin-bottom: 0;
-
     font-size: 136%;
 }
 
