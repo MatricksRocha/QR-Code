@@ -1,8 +1,10 @@
 # QR code - Frontend Mentor Challenge
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+<a href="https://qr-code-matricksrocha.vercel.app/">![Design preview for the QR code component coding challenge ](./design/desktop-preview.jpg)</a>
 
-<h1><a href="https://qr-code-one-sooty.vercel.app/">See the website by clicking here</a></h1>
+## 🌍 Website Link
+
+<a href="https://qr-code-matricksrocha.vercel.app/">https://qr-code-matricksrocha.vercel.app/</a>
 
 ## 📕 About
 
@@ -12,7 +14,7 @@ This was the first website that I developed, so my main objective with this chal
 
 ## 🔨 Tools
 
-- [HMTL](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## 💻 Executing the Project
