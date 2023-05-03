@@ -26,11 +26,7 @@ To execute the project in your computer:
 $ git clone https://github.com/MatricksRocha/QR-Code.git
 ```
 
-Then:
-
-```bash
-# Just open the file "index.html" in your browser.
-```
+Then just open the file "index.html" in your browser.
 
 ## 📝 Developed By
 
